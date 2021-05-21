@@ -1,5 +1,9 @@
 # Centre-loss
-Centre loss is a loss function proposed in the paper "Wen et al. A Discriminative Feature Learning Approach for Deep Face Recognition. ECCV 2016". It can better discriminate the samples regarding their classes. This is achieved by introducing centres of the deep features in each class and penalise the errors between the features and their class centres
+Centre loss is a loss function proposed in the paper "Wen et al. A Discriminative Feature Learning Approach for Deep Face Recognition. ECCV 2016". It can better discriminate the samples regarding their classes. This is achieved by introducing centres of the deep features in each class and penalise the errors between the features and their class centres.
+
+Using this centre-loss module, you need:
+Implementation in Tensorflow platform
+Initialise the centre-loss class
 
 
 
